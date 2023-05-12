@@ -1,5 +1,5 @@
 # edTech-website
-This is a HTML & CSS project. It's a responsive design.
+This is a HTML & CSS project and it's totally a responsive design.
 
 ## Live Site Link
 

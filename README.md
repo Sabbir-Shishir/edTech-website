@@ -1,5 +1,10 @@
 # edTech-website
-This is a HTML & CSS project and it's totally a responsive design.
+
+This is a responsive educational website built using HTML and CSS. The website features a clean and modern design and is optimized for viewing on desktop and mobile devices.
+
+## Installation
+
+No installation is required. Simply download or clone the repository and open the `index.html` file in your web browser.
 
 ## Live Site Link
 
